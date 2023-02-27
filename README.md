@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjivkov&theme=onedark" alt="gjivkov" /></a> </p>
 
 - 🔭 I’m currently working at **Dealroom.co** as a **Data Engineer**
-
+- 🏠 Based in Dobrich, Bulgaria (working fully remote)
 - 📫 How to reach me **gjgeorgievtge@gmail.com**
 
 <h3 align="left">Connect on LinkedIn:</h3>
