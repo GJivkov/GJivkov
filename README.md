@@ -1,3 +1,4 @@
+<h3 align="left">Summary</h3>
 - 🔭 Working as a **Mid Data Engineer** at **Dealroom.co** 
 - 🏠 Based in Dobrich, Bulgaria (Remote)
 - 📫 How to reach me **gjgeorgievtge@gmail.com**
