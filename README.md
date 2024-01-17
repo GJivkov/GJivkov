@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjivkov&theme=onedark" alt="gjivkov" /></a> </p>
-
 - 🔭 Working as a **Mid Data Engineer** at **Dealroom.co** 
 - 🏠 Based in Dobrich, Bulgaria (Remote)
 - 📫 How to reach me **gjgeorgievtge@gmail.com**
