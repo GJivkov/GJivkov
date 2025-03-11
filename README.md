@@ -1,6 +1,6 @@
 <h3 align="left">Summary</h3>
 
-- 🔭 Working as a **Data Engineer** at **Dealroom.co**
+- 🔭 Working as a **Data Engineer** at [**dealroom.co**](https://dealroom.co/)
 - 🏠 Based in Dobrich, Bulgaria (Remote)
 - 📫 How to reach me **gjgeorgievtge@gmail.com**
 
