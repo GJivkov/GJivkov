@@ -1,7 +1,7 @@
 <h3 align="left">Summary</h3>
 
-- 🔭 Working as a **Data Engineer** at [**dealroom.co**](https://dealroom.co/)
-- 🏠 Based in Dobrich, Bulgaria (Remote)
+- 🔭 Working as a **Senior Data Engineer** at [**dealroom.co**](https://dealroom.co/)
+- 🏠 Based in Dobrich, Bulgaria (Working fully remote)
 - 📫 How to reach me **gjgeorgievtge@gmail.com**
 
 <h3 align="left">Connect on LinkedIn:</h3>
